@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/30113166-1dca-42fc-ad71-159e8b6b08aa)
+
+
 # NR Digital Business ☁
 
 Este é o projeto NR Digital Business, desenvolvido por Richard Ramalho para promover e gerenciar presença online de negócios.

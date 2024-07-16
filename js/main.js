@@ -72,7 +72,7 @@ function whatsAppOpen() {
 }
 
 function instaAppOpen() {
-  window.open ('https://www.instagram.com/richardramalho98/', '_blank');
+  window.open ('https://www.instagram.com/bussiness_digital_nr?igsh=MWhmdGg5MXZtYWdldQ%3D%3D', '_blank');
 }
 
 
